@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Voxels, Mayfly404.com, and WOS
-- 🌱 I’m currently learning GDScript, and Python
-- 🤔 I’m looking for help with Mayfly404.com, it shows an error whenever you make a post, and I am unsure on solutions.
+- 🖥 I'm interested in Data Science and Software Engineering
+- 🌱 I'm currently learning VueJS, and advancing my skills in Python
 - 💬 Ask me about anything
 - 📫 How to reach me:
   - sam.nusair@gmail.com
