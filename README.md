@@ -1,10 +1,7 @@
-### Hi there 👋
+my name is wissam nusair and i love software engineering!!!!!!!!!!!
 
-- 🖥 I'm interested in Data Science and Software Engineering
-- 🌱 I'm currently learning VueJS, and advancing my skills in Python
-- 💬 Ask me about anything
-- 📫 How to reach me:
-  - sam.nusair@gmail.com
-  - Discord (In bio)
-  - 330-232-4445
-- ⚡ Fun fact: I started coding when I was 8 years old!
+please contact me at:
+ - email: sam.nusair@gmail.com
+ - phone: 3302324445
+
+![App Platorm](https://t4.ftcdn.net/jpg/01/15/20/75/360_F_115207580_US2etunH78I7iMYHOoNVvxQTCIdoPdRj.jpg)
