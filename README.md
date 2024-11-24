@@ -47,6 +47,7 @@ Reading those paragraphs above probably make you hungry to know what *I* know. T
 	- Responsiveness: 😎
 	- Effects: 😎
 - **Overall JavaScript: 😀**
+- **React Native: 😀**
 
 
 As seen here, *I am currently learning* Data Science and better website design. What is also apparent *is my ability to build* full stack web applications with fully-functional databases, servers for deployment, and Networking.
